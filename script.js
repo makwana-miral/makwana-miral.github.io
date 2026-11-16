@@ -5,7 +5,7 @@
      here. Each key matches a data-i18n attribute in index.html. */
   var translations = {
     en: {
-      "meta.title": "Miral Makwana — CV",
+      "meta.title": "Miral Makwana",
       "nav.home": "Home",
       "nav.experience": "Experience",
       "nav.education": "Education",
